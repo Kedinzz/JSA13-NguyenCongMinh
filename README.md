@@ -1,21 +1,22 @@
 # JSA13 - Nguyen Cong Minh
 
-## Khoi tao Git
+## Ten
 ```
-git init
-```
-
-## Xac dinh danh tinh
-```
-git config --global user.name "kedinzz"
-git config --global user.gmail "nguyencongminh071106@gmail.com"
+Nguyen Cong Minh
 ```
 
-## Them file vao change cau Git
-``
-git add <Ten file>
-
-git add.
+## ngay sinh
+```
+7/11/2006
 ```
 
-## Xac nhan su thay doi cho Git
+## Truong
+```
+truong THPT Thu Thiem
+```
+
+## Thanh Pho
+```
+TP HCM
+```
+
