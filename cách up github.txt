@@ -1,0 +1,15 @@
+KHỞI TẠO GIT
+ git init
+
+XÁC NHẬN DANH TÍNH
+ git config --global user.name "kedinzz"
+ git config --global user.email "nguyencongminh071106@gmail.com"
+
+THÊM FILE VÀO PHIÊN BẢN
+ gid add . 
+
+XÁC NHẠN PHIÊN BẢN
+ git commit -m "Upload Buoi1"
+
+ĐẨY DỮ LIỆU LÊN GITHUB
+ git push
