@@ -12,7 +12,7 @@
 }
 
 .header-content{
-    padding: 100px;
+    padding: 20px;
 }
 
 .header-background{
@@ -27,20 +27,19 @@
 
 .header-menu{
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
     height: 100px;
 }
 
 .header-logo,.header-logo>img{
-    height: 100px;
+    height: 80px;
 }
 
 .header-items{
     width: 50%;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-
+    
 }
 
 .header-items>li{
@@ -48,12 +47,75 @@
 }
 
 .header-items>li>a{
-        text-decoration: none;
-        font-size: 32px;
-        text-transform: uppercase;
-        color: white;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: white;
 }
 
 .header-items>li:hover>a{
     color: yellow;
+}
+
+.welcome-title{
+    font-size: 50px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 170px ;
+}
+
+.welcome-button{
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.header-button{
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 30px;
+    margin-right: 10px;
+    background-color:unset;
+    color: orange;
+    border-color: orange;
+}
+
+.header-button:hover{
+    background-color: orange;
+    color: white;
+}
+
+.infor-container{
+    color: gray;
+}
+
+.main-slogan{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.verticalline{
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    background-color: orange;
+}
+
+.welcome-slogan{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+}
+
+.main-ads{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 250px;
+    font-size: 20px;
+}
+
+.ads-items{
+    padding: 0 10px;
 }
