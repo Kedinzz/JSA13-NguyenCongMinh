@@ -119,3 +119,56 @@
 .ads-items{
     padding: 0 10px;
 }
+
+.fa-infinity{
+    font-size: 70px;
+    color: orange;
+    padding-bottom: 25px;
+}
+
+.fa-history{
+    font-size: 70px;
+    color: orange;
+    padding-bottom: 25px;
+}
+
+.fa-carrot{
+    font-size: 70px;
+    color: orange;
+    padding-bottom: 25px;
+}
+
+.fa-shopping-cart{
+    font-size: 70px;
+    color: orange;
+    padding-bottom: 25px;
+}
+
+.food-ads__how-it-works{
+    margin: 100px 0;
+    background-color: #e6e6e6;
+}
+
+.food-ads-top{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.food-ads-bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    width: 25%;
+}
+
+.main-food-ads img{
+    width: 100%;
+}
+
+.how-it-works-text{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin: 50px;
+}
