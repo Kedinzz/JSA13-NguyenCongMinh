@@ -172,3 +172,90 @@
     font-size: 40px;
     margin: 50px;
 }
+
+.phone-img img{
+    display: block;
+    max-width:300px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    padding-left: 450px;
+}
+
+.phone-img-and-items{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+
+.step-items{
+    font-size: 25px;
+    padding-bottom: 60px;
+    padding-top: 28px;
+    padding-left: 45px;
+}
+
+.down-apps{
+    display: flex;
+    height: 100%;
+}
+
+.evaluate-about-us{
+    color: gray;
+}
+
+.our-appearance{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding-bottom: 80px;
+}
+
+.cities img{
+    display: block;
+    max-width:250px;
+    max-height:500px;
+    width: 100%;
+
+}
+
+.four-cities{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 200px;
+}
+
+.ommnifood_email{
+    text-decoration: underline;
+}
+
+.cities>i{
+    color: orange;
+}
+    
+.three-investors img{
+    border-radius: 50%;
+    width: 3%;
+}
+
+.three-investors{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 350px;
+    padding-right: 200px;
+}
+    /* START FOOTER */
+.footer{
+    background-color: #212121;
+    color: gray;
+}
+.about-us__footer-items{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 200px;
+}
+
+.last-text{
+    text-align: center;
+    padding: 40px 200px;
+}
