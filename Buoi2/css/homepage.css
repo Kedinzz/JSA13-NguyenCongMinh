@@ -243,7 +243,86 @@
     justify-content: space-around;
     padding-top: 350px;
     padding-right: 200px;
+    padding-bottom: 50px;
 }
+    /* START SIGN UP */
+.sign-up-container{
+    color: grey;
+    background-color: #e6e6e6;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+
+.sign-up-head{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 30px;
+
+}
+
+.sign-up-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.three-sign-up-box{
+    background-color: white;
+    padding: 15px;
+}
+
+.prize{
+    color: orange;
+    font-size: 30px;
+    padding:10px ;
+    margin-right: 60px;
+}
+
+.endow i{
+    color: orange;
+}
+
+.box-sign-up-button{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.sign-up-button{
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 30px;
+    margin-right: 10px;
+    background-color:unset;
+    color: orange;
+    border-color: orange;
+}
+
+.sign-up-button:hover{
+    background-color: orange;
+    color: white;
+}
+    /* END SIGN UP */
+
+
+    /* START ADVICE */
+.advice-container{
+ 
+}
+
+.advice-title{
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.advice-box{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+    /* END ADVICE */
+
+
     /* START FOOTER */
 .footer{
     background-color: #212121;
@@ -252,10 +331,12 @@
 .about-us__footer-items{
     display: flex;
     justify-content: space-between;
-    padding: 40px 200px;
+    padding: 0 200px;
+    padding-top: 40px;
 }
 
 .last-text{
     text-align: center;
-    padding: 40px 200px;
+    padding: 30px 200px;
 }
+    /* END FOOTER */
