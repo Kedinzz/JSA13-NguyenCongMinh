@@ -12,7 +12,7 @@ Nguyen Cong Minh
 
 ## Truong
 ```
-truong THPT Thu Thiem
+QTAC
 ```
 
 ## Thanh Pho
